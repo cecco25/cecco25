@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A beginner web developer from Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cecco25" alt="cecco25" /></a> </p>
-
 - 🌱 I’m currently learning **Computer science at university**
 
 - 👨‍💻 All of my projects are available at [https://www.seagullcode.it/cecco/portfolio/](https://www.seagullcode.it/cecco/portfolio/)
