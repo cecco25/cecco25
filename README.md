@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer science at university**
 
-- 👨‍💻 All of my projects are available at [https://www.seagullcode.it/cecco/portfolio/](https://www.seagullcode.it/cecco/portfolio/)
+- 👨‍💻 My Portfolio: [https://www.seagullcode.it/cecco/portfolio/](https://www.seagullcode.it/cecco/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
