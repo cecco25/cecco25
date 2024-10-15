@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A beginner web developer from Italy</h3>
+<h3 align="center">Web developer from Italy</h3>
 
 - 🌱 I’m currently learning **Computer science at university**
 
