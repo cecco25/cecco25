@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">Web developer from Italy</h3>
+<h3 align="center">Web Developer from Italy 🇮🇹</h3>
 
 - 🌱 I’m currently learning **Computer science at university**
 
-- 👨‍💻 My Portfolio: [https://www.seagullcode.it/cecco/portfolio/](https://www.seagullcode.it/cecco/portfolio/)
+- 👨‍💻 [My Portfolio](https://cecco25.github.io/nextjs-portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
