@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Computer science at university**
 
-- 👨‍💻 [My Portfolio](https://cecco25.github.io/nextjs-portfolio/)
+- 👨‍💻 [My Portfolio](https://cecco25.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
