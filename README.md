@@ -26,7 +26,7 @@
 ###
 
 <p align="left">🌱 I’m currently learning Computer Science at University</p>
-<p>💻 All of my projects are available at <a href="https://cecco25.vercel.app/portfolio" target="_blank">My Portfolio</a></p>
+<p>💻 All of my projects are available at <a href="https://cecco25.vercel.app" target="_blank">My Portfolio</a></p>
 
 ###
 
